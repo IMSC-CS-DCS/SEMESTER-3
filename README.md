@@ -1,6 +1,8 @@
 # SEMESTER-3
 Semester:3 study materials including text books, notes and question paper. 
 
+#  [For Syllabus Click here](https://dcs.cusat.ac.in/assets/pdf-files/program-structure/syllabus%20and%20scheme%20program%20structure-1.pdf)
+
 21-XXX-0301: Design & Analysis of Algorithms
 
 21-XXX-0302: Probability and Statistics for Data Science
